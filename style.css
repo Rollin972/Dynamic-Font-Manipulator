@@ -1,0 +1,27 @@
+body
+{
+    color: ghostwhite;
+    font-family: 'Tourney', cursive;
+}
+
+.pt-1
+{
+    background-color: darkolivegreen;
+    border: darkslategray 10px solid;
+    padding:30px;
+    margin: 30px;
+}
+
+#copy_fil
+{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    background-color: darkslategray;
+    color: ghostwhite;
+    width: 100%;
+}
+
+canvas{
+    border: grey 10px solid;
+}
